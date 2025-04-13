@@ -10,4 +10,4 @@ The program will ask the user the following:
 After calculating the BMI based on the User's input, a BMI score is printed out to 2 decimal places
 
 # Running the Code
-To run the program please download the file and run the following on your terminal: run BMI.py
+To run the program please download the file and run the following on your terminal: run BMI_Code.py
